@@ -6,7 +6,7 @@ nav ul, nav h1, nav h2, main {
   margin:0 20px;
 }
 @media (min-width:1000px) {
-  nav ul, nav h1, nav h2, main {
+  nav ul, header h1, header h2, main {
     margin:0 auto;
     max-width:960px;  
   }
