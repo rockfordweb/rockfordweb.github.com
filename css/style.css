@@ -27,6 +27,9 @@ nav li a {
   padding:10px 30px;
   text-decoration:none;
 }
+nav li a:first-child {
+  margin-left:0;
+}
 
 nav li a:hover {
   background:white;
