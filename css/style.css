@@ -11,11 +11,11 @@ nav {
   background: #FF530D;
 }
 
-nav ul, header h1, header h2, main {
+nav ul, header h1, header h2, main, footer {
   margin:0 20px;
 }
 @media (min-width:1000px) {
-  nav ul, header h1, header h2, main {
+  nav ul, header h1, header h2, main, footer {
     margin:0 auto;
     width:960px;  
   }
