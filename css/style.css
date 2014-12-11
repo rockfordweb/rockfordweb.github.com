@@ -2,11 +2,11 @@ nav {
   background: #FF530D;
 }
 
-nav ul, main {
+nav ul, nav h1, nav h2, main {
   margin:0 20px;
 }
 @media (min-width:1000px) {
-  nav ul, main {
+  nav ul, nav h1, nav h2, main {
     margin:0 auto;
     max-width:960px;  
   }
