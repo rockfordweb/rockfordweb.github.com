@@ -23,12 +23,12 @@ nav ul, header h1, header h2, main {
 }
 
 header h1 {
-  background:url(images/logo.png) left top no-repeat;
+  background:url(/images/logo.png) left top no-repeat;
   background-size:contain;
   margin-bottom:30px;
   margin-top:30px;
   max-width:600px;
-  text-align:-9999px;
+  text-indent:-9999px;
 }
 
 nav li {
