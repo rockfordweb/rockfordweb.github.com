@@ -2,6 +2,17 @@ nav {
   background: #FF530D;
 }
 
+nav ul, section {
+  margin:0 20px;
+}
+@media (min-width:1000px) {
+  nav ul, section {
+    margin:0 auto;
+    max-width:960px;  
+  }
+  
+}
+
 nav li {
   float:left;
   list-style-type: none;
