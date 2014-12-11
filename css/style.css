@@ -1,0 +1,15 @@
+nav {
+  background: #FF530D;
+}
+
+nav li {
+  list-style-type: none;
+  float:left;
+}
+
+nav li a {
+  border:white solid 1px;
+  display:block;
+  margin:10px;
+  padding:10px;
+}
