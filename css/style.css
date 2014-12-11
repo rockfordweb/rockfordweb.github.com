@@ -1,3 +1,10 @@
+p, li, a, td, span {
+  font-size:16px;
+}
+p {
+  line-height:1.5;
+}
+
 nav {
   background: #FF530D;
 }
