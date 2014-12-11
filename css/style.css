@@ -16,3 +16,8 @@ nav li a {
   padding:10px 30px;
   text-decoration:none;
 }
+
+nav li a:hover {
+  background:white;
+  color:#FF530D;
+}
